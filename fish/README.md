@@ -8,6 +8,7 @@
 omf install kawasaki
 ```
 
+- Clone the repository
 - For `config.fish`
 
 ```
